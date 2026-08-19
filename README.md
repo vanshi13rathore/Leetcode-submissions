@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [1685-stone-game-v](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2156-stone-game-ix) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2319-longest-substring-of-one-repeating-character) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -99,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
+| [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2156-stone-game-ix) |
 ## Counting
 |  |
