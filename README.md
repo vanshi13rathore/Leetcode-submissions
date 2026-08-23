@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2156-stone-game-ix) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
