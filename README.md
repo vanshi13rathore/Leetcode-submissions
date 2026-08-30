@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-stone-game-v](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2156-stone-game-ix) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [2039-sum-game](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2156-stone-game-ix) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
