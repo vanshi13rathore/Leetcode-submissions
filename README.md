@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [1685-stone-game-v](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1685-stone-game-v) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [1617-stone-game-iv](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2002-stone-game-viii) |
@@ -172,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
