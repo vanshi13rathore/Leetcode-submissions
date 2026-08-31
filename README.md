@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [1685-stone-game-v](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2002-stone-game-viii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
