@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4256-construct-uniform-parity-array-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4256-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2156-stone-game-ix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2156-stone-game-ix) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4256-construct-uniform-parity-array-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4256-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
