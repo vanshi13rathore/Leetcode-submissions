@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [1685-stone-game-v](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1685-stone-game-v) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [2156-stone-game-ix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2156-stone-game-ix) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
@@ -192,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
