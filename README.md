@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4256-construct-uniform-parity-array-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4285-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [2002-stone-game-viii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2002-stone-game-viii) |
 | [4284-smallest-stable-index-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4285-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
