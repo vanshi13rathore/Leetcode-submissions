@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2002-stone-game-viii) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
