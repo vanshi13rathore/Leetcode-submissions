@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2002-stone-game-viii) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2039-sum-game) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2319-longest-substring-of-one-repeating-character) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Enumeration
 |  |
 | ------- |
