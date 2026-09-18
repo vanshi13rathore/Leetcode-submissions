@@ -1,40 +1,41 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        string ans = "";
-        int i = s.size() - 1;
 
-        while(i >= 0) {
-            
+        vector<string> words;
 
-            // Skip spaces
-            while(i >= 0 && s[i] == ' ') {
-                i--;
+        int i=0;
+
+        while(i<s.size()) {
+
+            while(i<s.size() && s[i] == ' ') {
+                i++;
             }
 
-            if(i < 0) {
+            if(i>=s.size()) {
                 break;
             }
 
-            // Find the beginning of the word
-            int j = i;
+            int start = i;
 
-            while(j >= 0 && s[j] != ' ') {
-                j--;
+            while(i<s.size() && s[i] != ' ' ) {
+                i++;
             }
 
-            // Add space between words
-            if(!ans.empty()) {
-                ans += ' ';
-            }
-
-            // Add the word
-            ans += s.substr(j + 1, i - j);
-
-            // Move to previous word
-            i = j - 1;
+            words.push_back(s.substr(start, i-start)) ;
         }
 
+        string ans = "";
+
+        for(int i=words.size()-1; i>=0; i--) {
+
+            ans += words[i];
+
+            if(i != 0) {
+                ans += " ";
+            }
+
+        }
         return ans;
     }
 };
