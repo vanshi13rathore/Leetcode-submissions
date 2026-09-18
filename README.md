@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0812-rotate-string) |
 | [0977-distinct-subsequences-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0977-distinct-subsequences-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1078-remove-outermost-parentheses) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2039-sum-game) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2156-stone-game-ix) |
