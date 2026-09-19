@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0866-rectangle-overlap](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1617-stone-game-iv](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1685-stone-game-v) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Stack
 |  |
 | ------- |
