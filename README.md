@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3811-reverse-degree-of-a-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3811-reverse-degree-of-a-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Segment Tree
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3811-reverse-degree-of-a-string) |
 ## Combinatorics
 |  |
 | ------- |
