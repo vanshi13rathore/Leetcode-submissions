@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3705-find-the-largest-almost-missing-integer](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3831-find-x-value-of-array-i) |
+| [3840-find-x-value-of-array-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3840-find-x-value-of-array-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2156-stone-game-ix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2156-stone-game-ix) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3831-find-x-value-of-array-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3831-find-x-value-of-array-i) |
+| [3840-find-x-value-of-array-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3840-find-x-value-of-array-ii) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4245-count-commas-in-range](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4245-count-commas-in-range) |
 | [4256-construct-uniform-parity-array-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2319-longest-substring-of-one-repeating-character) |
+| [3840-find-x-value-of-array-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3840-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
