@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1685-stone-game-v](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1685-stone-game-v) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2002-stone-game-viii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2002-stone-game-viii) |
 | [2047-find-a-peak-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2156-stone-game-ix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2156-stone-game-ix) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2047-find-a-peak-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2047-find-a-peak-element-ii) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2002-stone-game-viii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2002-stone-game-viii) |
 | [4284-smallest-stable-index-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4285-smallest-stable-index-ii) |
