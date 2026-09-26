@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0118-pascals-triangle) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0078-subsets) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -391,5 +393,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0078-subsets) |
 | [1188-brace-expansion-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1188-brace-expansion-ii) |
 <!---LeetCode Topics End-->
