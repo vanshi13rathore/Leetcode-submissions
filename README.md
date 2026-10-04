@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0282-expression-add-operators) |
 | [0866-rectangle-overlap](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1617-stone-game-iv](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1617-stone-game-iv) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
+| [0282-expression-add-operators](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0812-rotate-string) |
 | [0977-distinct-subsequences-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0977-distinct-subsequences-ii) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0282-expression-add-operators) |
 | [1188-brace-expansion-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1188-brace-expansion-ii) |
 ## Depth-First Search
 |  |
