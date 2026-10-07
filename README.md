@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 ## Linked List
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
