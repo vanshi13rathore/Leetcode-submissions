@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0282-expression-add-operators) |
 | [0866-rectangle-overlap](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1501-circle-and-rectangle-overlapping) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2050-count-good-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
