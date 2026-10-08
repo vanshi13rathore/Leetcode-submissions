@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0260-single-number-iii) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
