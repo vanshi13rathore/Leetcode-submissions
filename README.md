@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2039-sum-game) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
