@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0260-single-number-iii) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2156-stone-game-ix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2156-stone-game-ix) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
