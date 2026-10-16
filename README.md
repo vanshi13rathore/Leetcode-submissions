@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3840-find-x-value-of-array-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3840-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Merge Sort
 |  |
 | ------- |
