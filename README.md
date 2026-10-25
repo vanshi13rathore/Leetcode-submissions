@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-image-overlap](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0864-image-overlap) |
 | [0907-koko-eating-bananas](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1685-stone-game-v](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1685-stone-game-v) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0864-image-overlap](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0864-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1188-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0079-word-search) |
+| [1254-number-of-closed-islands](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 ## Algorithm X
 |  |
 | ------- |
@@ -518,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0037-sudoku-solver) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
