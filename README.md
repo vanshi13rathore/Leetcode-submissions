@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1188-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Algorithm X
 |  |
 | ------- |
@@ -526,4 +530,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
