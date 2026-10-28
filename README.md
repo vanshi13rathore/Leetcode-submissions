@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3840-find-x-value-of-array-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3840-find-x-value-of-array-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3831-find-x-value-of-array-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3831-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
