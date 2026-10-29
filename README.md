@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0493-reverse-pairs) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -444,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
