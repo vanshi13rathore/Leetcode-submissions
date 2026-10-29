@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-unique-3-digit-even-numbers](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3831-find-x-value-of-array-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3840-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0493-reverse-pairs) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3811-reverse-degree-of-a-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3811-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Segment Tree
 |  |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3840-find-x-value-of-array-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3840-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -523,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Algorithm X
 |  |
 | ------- |
@@ -537,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
