@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0860-lemonade-change) |
 | [0864-image-overlap](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0864-image-overlap) |
 | [0907-koko-eating-bananas](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1188-brace-expansion-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
