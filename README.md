@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0455-assign-cookies) |
 ## Binary Indexed Tree
 |  |
@@ -575,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
