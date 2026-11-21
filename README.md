@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0860-lemonade-change) |
 | [0864-image-overlap](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0864-image-overlap) |
+| [0904-fruit-into-baskets](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [1188-brace-expansion-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1188-brace-expansion-ii) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
