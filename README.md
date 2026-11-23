@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0904-fruit-into-baskets) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0282-expression-add-operators](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0301-remove-invalid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0812-rotate-string) |
