@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1487-cinema-seat-allocation](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1487-cinema-seat-allocation) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2002-stone-game-viii](https://github.com/vanshi13rathore/Leetcode-submissions/tree/master/2002-stone-game-viii) |
